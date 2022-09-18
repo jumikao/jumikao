@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jumikao.
-- 👀 I’m interested in maschine learning and data science.
+- 👀 I’m interested in machine learning and data science.
 - 🌱 I’m currently learning to develop my own projects via kaggle or github.
 
 
